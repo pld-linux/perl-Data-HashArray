@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Data
 %define	pnam	HashArray
 Summary:	Data::HashArray - An array class of hashes that has magical properties via overloading and AUTOLOAD.
