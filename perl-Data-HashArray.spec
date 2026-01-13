@@ -8,7 +8,7 @@ Summary:	Data::HashArray - An array class of hashes that has magical properties 
 #Summary(pl.UTF-8):	
 Name:		perl-Data-HashArray
 Version:	1.0
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
